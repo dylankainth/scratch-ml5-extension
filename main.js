@@ -5,8 +5,8 @@ class ScratchFetch {
     
     getInfo() {
         return {
-            "id": "Fetch",
-            "name": "Fetch",
+            "id": "ML5.js",
+            "name": "ML5.js Scratch Extension",
             "blocks": [
                         {
                             "opcode": "fetchURL",
